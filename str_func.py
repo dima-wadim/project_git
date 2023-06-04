@@ -1,6 +1,7 @@
 def str_func(value):
     return value.upper()
 
+
 def str_fun(value):
     return value.title()
 
